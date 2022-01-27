@@ -10,15 +10,11 @@
   
   十字キー　で　おたまが　ふよふよ  
 
-# Header 1
-## Header 2
-### Header 3
+### おたまは　あぶないね
 
-- Bulleted
-- List
+- おたまは　きけんだから　よけないと！！！！！！！！！！
+- おたまに　つかまると　抹消
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
