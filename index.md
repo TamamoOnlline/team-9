@@ -2,31 +2,25 @@
 
 たまごって　しってるかな？  
 たのしい　せかいへ　ようこそ
+ここは　しゃかいしゅぎの　くに
+ひが　しずむ　ほう
+やたいで　ちょうり　されそう！？！？
 
 ### どう　うごこうね
 
   WASD  で　たまごが　うごくね  
   space　で　たまごが　とぶね
   
-  十字キー　で　おたまが　ふよふよ  
+  ↑↓←→キー　で　おたまが　ふよふよ  
 
 ### おたまは　あぶないね
 
 - おたまは　きけんだから　よけないと！！！！！！！！！！
 - おたまに　つかまると　抹消
 
+### ふたりで　あそぼうね
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TamamoOnlline/team-9/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- オンライン　じゅぎょうは　ふたりめが　いないって？
+- おうちのひとに　てつだって　もらおう
+- おともだちが　いなかったり
+- はずかしかったら　ひとりでも　いいよ ^^
