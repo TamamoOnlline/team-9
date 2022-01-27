@@ -3,12 +3,12 @@
 たまごって　しってるかな？  
 たのしい　せかいへ　ようこそ
 
-### Markdown
+### どう　うごこうね
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+  WASD  で　たまごが　うごくね  
+  space　で　たまごが　とぶね
+  
+  十字キー　で　おたまが　ふよふよ  
 
 # Header 1
 ## Header 2
